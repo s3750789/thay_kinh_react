@@ -1,0 +1,11 @@
+.img_div {
+    position: relative;
+  }
+  
+  .img_card {
+    width: 100%;
+    position: absolute;
+    flex-direction: row;
+    display: block;
+    opacity:0.8;
+  }
